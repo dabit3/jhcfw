@@ -1,0 +1,23 @@
+{
+  "name": "jhcfw",
+  "version": "0.0.1",
+  "authors": [
+    "dabit3 <dabit3@gmail.com>"
+  ],
+  "description": "Jackson Healthcare For Women Mobile Site",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "normalize-css": "~3.0.1",
+    "font-awesome": "~4.1.0"
+  }
+}
